@@ -1,3 +1,3 @@
-# SQL_PortfolioProject_CovidAnalysis
+# SQL_CovidAnalysis
 
 [SQL Project Code]
